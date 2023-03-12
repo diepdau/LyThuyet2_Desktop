@@ -1,0 +1,11 @@
+D:\hk2_n1\desktop\BaiTap_T48\BaiTap_T48\bin\Debug\BaiTap_T48.exe.config
+D:\hk2_n1\desktop\BaiTap_T48\BaiTap_T48\bin\Debug\BaiTap_T48.exe
+D:\hk2_n1\desktop\BaiTap_T48\BaiTap_T48\bin\Debug\BaiTap_T48.pdb
+D:\hk2_n1\desktop\BaiTap_T48\BaiTap_T48\obj\Debug\BaiTap_T48.csproj.AssemblyReference.cache
+D:\hk2_n1\desktop\BaiTap_T48\BaiTap_T48\obj\Debug\BaiTap_T48.csproj.SuggestedBindingRedirects.cache
+D:\hk2_n1\desktop\BaiTap_T48\BaiTap_T48\obj\Debug\BaiTap_T48.Form1.resources
+D:\hk2_n1\desktop\BaiTap_T48\BaiTap_T48\obj\Debug\BaiTap_T48.Properties.Resources.resources
+D:\hk2_n1\desktop\BaiTap_T48\BaiTap_T48\obj\Debug\BaiTap_T48.csproj.GenerateResource.cache
+D:\hk2_n1\desktop\BaiTap_T48\BaiTap_T48\obj\Debug\BaiTap_T48.csproj.CoreCompileInputs.cache
+D:\hk2_n1\desktop\BaiTap_T48\BaiTap_T48\obj\Debug\BaiTap_T48.exe
+D:\hk2_n1\desktop\BaiTap_T48\BaiTap_T48\obj\Debug\BaiTap_T48.pdb
